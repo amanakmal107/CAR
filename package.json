@@ -5,7 +5,6 @@
   "description": "AutoMedics Garage AMG Website - Doha, Qatar",
   "scripts": {
     "dev": "node server.js",
-    "start": "node server.js",
-    "build": "echo 'Static build ready'"
+    "start": "node server.js"
   }
 }
